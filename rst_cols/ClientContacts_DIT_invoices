@@ -1,0 +1,8 @@
+Yes	ContactId*
+Yes	ContactEntity*
+Yes	ClientId*
+Yes	Relationship
+Yes	Type
+Yes	Is Emergency Contact?*
+ 	BranchName*
+tsa	Tenant*

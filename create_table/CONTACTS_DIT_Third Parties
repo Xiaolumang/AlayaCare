@@ -1,0 +1,19 @@
+drop table if exists contacts_dit_third_parties;
+create table if not exists contacts_dit_third_parties
+ (ContactId INT,
+Supplier_Name VARCHAR(255),
+Contact_Full_Name VARCHAR(255),
+FirstName VARCHAR(255),
+LastName VARCHAR(255),
+Middle_Name VARCHAR(255),
+OtherPhoneNumber VARCHAR(255),
+EmailAddress VARCHAR(255),
+Address VARCHAR(255),
+City VARCHAR(255),
+PostalCode VARCHAR(255),
+Province VARCHAR(255),
+MainPhoneNumber VARCHAR(255),
+FaxNumber VARCHAR(255),
+Status VARCHAR(255),
+Company_Name VARCHAR(255),
+Type1 VARCHAR(255));

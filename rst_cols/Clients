@@ -1,0 +1,47 @@
+Yes	Id*
+Yes	FirstName*
+Yes	LastName*
+Yes	Salutation
+Yes	Address
+ 	Suite Number
+Yes	City
+Yes	Province
+Yes	Country
+Yes	PostalCode
+Yes	MainPhoneNumber
+Yes	PersonalPhoneNumber
+Yes	OtherPhoneNumber
+ 	FaxNumber
+Yes	EmailAddress
+ 	Password
+Yes	DateOfBirth
+Yes	Gender
+ 	Remarks
+ 	HealthCardNumber
+ 	CostCentreNumber
+ 	Timezone
+ 	preferred_language
+ 	BranchName*
+ 	Tenant*
+ 	Interpreter required
+Yes	Indigenous Status
+Yes	Residency Status
+ 	Residency Other Status
+ 	Marital Status
+ 	Carer
+ 	DVA Card Type
+ 	DVA Card Number
+ 	Disability Code
+ 	Accomodation Setting
+ 	Accomodation Setting Other
+yes	Living Situation
+yes	How did you hear of Healthlink
+ 	Other source
+ 	Preferred_Name
+Yes	Reasons_For_Assistance_Code
+Yes	Main Source of Income
+Yes	HACC Referral Source
+Yes	SAMIS ID
+ 	Subscribe to Marketing
+Yes	Start Date
+Yes	Household Composition

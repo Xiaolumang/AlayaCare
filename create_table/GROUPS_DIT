@@ -1,0 +1,4 @@
+drop table if exists groups_dit;
+create table if not exists groups_dit
+ (ClientId INT,
+GroupName1 VARCHAR(255));

@@ -1,0 +1,23 @@
+drop table if exists samis_chsp_clients_dit_ri;
+create table if not exists samis_chsp_clients_dit_ri
+ (Power_Diary_Client_ID INT,
+Full_Name VARCHAR(255),
+SAMIS_ID INT,
+HACC_Referral_Source VARCHAR(255),
+Main_Source_of_Income VARCHAR(255),
+Reasons_For_Assistance_Code VARCHAR(255),
+Start_Date VARCHAR(255),
+Surname VARCHAR(255),
+FirstName VARCHAR(255),
+Gender VARCHAR(255),
+Address1 VARCHAR(255),
+PostalCode VARCHAR(255),
+GroupName1 VARCHAR(255),
+GroupName2 VARCHAR(255),
+Indigenous_Status VARCHAR(255),
+Residency_Status VARCHAR(255),
+MainPhoneNumber VARCHAR(255),
+OtherPhoneNumber VARCHAR(255),
+EmailAddress VARCHAR(255),
+Living_Situation VARCHAR(255),
+Household_Composition VARCHAR(255));

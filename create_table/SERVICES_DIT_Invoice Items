@@ -1,0 +1,10 @@
+drop table if exists services_dit_invoice_items;
+create table if not exists services_dit_invoice_items
+ (InvoiceItemID VARCHAR(255),
+SaleableName VARCHAR(255),
+ClientId INT,
+ServiceCode VARCHAR(255),
+ServiceId INT,
+InvoiceID VARCHAR(255),
+Full_Name VARCHAR(255),
+Consolidate VARCHAR(255));

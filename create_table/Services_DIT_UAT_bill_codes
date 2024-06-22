@@ -1,0 +1,10 @@
+drop table if exists services_dit_uat_bill_codes;
+create table if not exists services_dit_uat_bill_codes
+ (Program VARCHAR(255),
+ServiceCode VARCHAR(255),
+ServiceName VARCHAR(255),
+CostCentreNumber VARCHAR(255),
+Status VARCHAR(255),
+Funding_Methodology VARCHAR(255),
+ServiceId INT,
+ContactEntity VARCHAR(255));

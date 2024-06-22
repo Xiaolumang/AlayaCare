@@ -1,0 +1,19 @@
+drop table if exists contacts_dit_client_contacts;
+create table if not exists contacts_dit_client_contacts
+ (ClientId INT,
+Client_Name VARCHAR(255),
+ContactId INT,
+Contact_Name VARCHAR(255),
+FirstName VARCHAR(255),
+LastName VARCHAR(255),
+EmailAddress VARCHAR(255),
+MainPhoneNumber VARCHAR(255),
+Address VARCHAR(255),
+City VARCHAR(255),
+PostalCode VARCHAR(255),
+Province VARCHAR(255),
+Country VARCHAR(255),
+Relationship VARCHAR(255),
+Type1 VARCHAR(255),
+FaxNumber VARCHAR(255),
+Is_Emergency_Contact VARCHAR(255));

@@ -1,0 +1,14 @@
+{
+  "Active_Client": "28",
+  "InvoiceItemID": "69080235",
+  "SaleableName": "Podiatry - Standard",
+  "ClientId": "28",
+  "ServiceCode": "CHSP HealthLink - Podiatry - Subsequent Consultation",
+  "ServiceId": "11",
+  "InvoiceID": "#N/A",
+  "Full_Name": "Rosa Petraccaro",
+  "Created_date": "7/6/23",
+  "Consolidate": "28_CHSP HealthLink - Podiatry - Subsequent Consultation",
+  "FunderCode": "CHSP Health Link",
+  "Group_": "Program - CHSP (Healthlink, SA)"
+}

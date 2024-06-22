@@ -1,0 +1,14 @@
+{
+  "Program": "Fee For Service - CDM",
+  "ServiceCode": "CDM HealthLink - Podiatry - Initial Assessment",
+  "FunderCode": "Fee For Service - CDM",
+  "ServiceName": "CDM HealthLink - Podiatry - Initial Assessment",
+  "OLD_Services_Code_in_Alayacare_UAT": "",
+  "Rate": "0",
+  "CostCentreNumber": "202633",
+  "Status": "Active",
+  "Funding_Methodology": "Single source",
+  "ServiceId": "1",
+  "BillingContact": "Contact",
+  "ContactEntity": "Contact"
+}

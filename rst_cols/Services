@@ -1,0 +1,26 @@
+Yes	ServiceId*
+Yes	ServiceName*
+Yes	Funding Methodology*
+Yes	Program
+ 	Billing frequency
+ 	Apply Taxes
+Yes	Status*
+ 	StatusReason
+ 	EmployeeId
+ 	ClientId*
+Yes	ServiceCode*
+ 	BillableUsing
+ 	RatingRule
+ 	StartDate
+ 	ProjectedEndDate
+ 	Address
+ 	Suite Number
+ 	City
+ 	Province
+ 	Country
+ 	PostalCode
+ 	ServiceInstructions
+ 	Notes
+Yes	CostCentreNumber
+ 	BranchName*
+tsa	Tenant*

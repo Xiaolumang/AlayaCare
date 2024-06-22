@@ -1,0 +1,20 @@
+Yes	Id*
+Yes	FirstName*
+Yes	LastName*
+ 	Salutation
+Yes	Address
+ 	Suite Number
+Yes	City
+Yes	Province
+Yes	Country
+Yes	PostalCode
+Yes	EmailAddress
+Yes	MainPhoneNumber
+ 	PersonalPhoneNumber
+Yes	OtherPhoneNumber
+Yes	FaxNumber
+ 	Remarks
+ 	ProviderType
+ 	NPI
+ 	BranchName*
+tsa	Tenant*

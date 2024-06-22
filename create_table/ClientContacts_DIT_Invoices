@@ -1,0 +1,10 @@
+drop table if exists client_contacts_dit_invoices;
+create table if not exists client_contacts_dit_invoices
+ (ClientId INT,
+Full_Name VARCHAR(255),
+dtInvoicePaid DATETIME,
+ContactId INT,
+GroupName1 VARCHAR(255),
+SupplierName VARCHAR(255),
+LocationName VARCHAR(255),
+Type1 VARCHAR(255));

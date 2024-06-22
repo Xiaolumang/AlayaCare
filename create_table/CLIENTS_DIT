@@ -1,0 +1,23 @@
+drop table if exists clients_dit;
+create table if not exists clients_dit
+ (Id INT,
+Supplier_Name VARCHAR(255),
+Client_Type VARCHAR(255),
+Salutation VARCHAR(255),
+Full_Name VARCHAR(255),
+FirstName VARCHAR(255),
+LastName VARCHAR(255),
+Middle_Name VARCHAR(255),
+Preferred_Name VARCHAR(255),
+OtherPhoneNumber VARCHAR(255),
+EmailAddress VARCHAR(255),
+DateOfBirth DATE,
+Gender VARCHAR(255),
+Address VARCHAR(255),
+City VARCHAR(255),
+PostalCode VARCHAR(255),
+Province VARCHAR(255),
+MainPhoneNumber VARCHAR(255),
+Country VARCHAR(255),
+Status VARCHAR(255),
+How_did_you_hear_of_Healthlink VARCHAR(255));
